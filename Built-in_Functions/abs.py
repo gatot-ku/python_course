@@ -1,4 +1,5 @@
-# Penggunaan fungsi abs() dalam loop dan if statements dapat membantu kita dalam melakukan pengolahan data atau perhitungan matematis yang lebih kompleks. Berikut adalah contoh penggunaan fungsi abs() dalam loop dan if statements di Python:
+# Penggunaan fungsi abs() dalam loop dan if statements dapat membantu kita dalam melakukan pengolahan data atau perhitungan
+#matematis yang lebih kompleks. Berikut adalah contoh penggunaan fungsi abs() dalam loop dan if statements di Python:
 
 
 #Contoh 1: Menghitung rata-rata nilai absolut dari suatu list of numbers
