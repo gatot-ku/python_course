@@ -36,5 +36,7 @@ else:
   print("Nilai absolut b lebih besar dari nilai absolut a")
   print("Nilai terbesar adalah:", b)#20
   
-# Dalam contoh-contoh di atas, fungsi abs() digunakan untuk melakukan pengolahan data yang lebih kompleks, seperti menghitung rata-rata nilai absolut dari sebuah list, atau memilih nilai terbesar dari dua bilangan berdasarkan nilai absolutnya. Kombinasi loop dan if statements dengan fungsi abs() dapat membantu kita dalam menyelesaikan berbagai macam perhitungan matematis dengan lebih mudah dan efisien.
+# Dalam contoh-contoh di atas, fungsi abs() digunakan untuk melakukan pengolahan data yang lebih kompleks,
+# seperti menghitung rata-rata nilai absolut dari sebuah list, atau memilih nilai terbesar dari dua bilangan berdasarkan nilai absolutnya.
+# Kombinasi loop dan if statements dengan fungsi abs() dapat membantu kita dalam menyelesaikan berbagai macam perhitungan matematis dengan lebih mudah dan efisien.
 
